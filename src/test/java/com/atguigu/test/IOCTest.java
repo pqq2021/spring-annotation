@@ -25,6 +25,10 @@ public class IOCTest {
 		}
 	}
 	
+	//阿斯顿发
+	/**
+	 * 阿斯顿发
+	 */
 	//第二次提交，相应的1加一点东西，这个并不是什么很难得事情
 	@Test
 	public void test02()
